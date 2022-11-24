@@ -1,0 +1,1 @@
+Competitive Proof Of Work
